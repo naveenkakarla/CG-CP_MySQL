@@ -14,14 +14,5 @@ The Counseling Management System is a web application built with Java Spring Boo
 - MySQL Database
 - Thymeleaf for Frontend
 
-## Deployment URLs
-
-### Frontend Only
-
-The frontend of the Counseling Management System is permanently accessible at: https://cms-front-end-pearl.vercel.app/
-
-### Complete Deployed Application
-
-The complete deployed application, including the backend and frontend, is accessible at: https://cms-mongodb.onrender.com/
 
 
